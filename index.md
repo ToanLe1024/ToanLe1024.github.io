@@ -7,7 +7,7 @@ I am a computer science major at CSUF and I plan on graduating in 2028.
 
 * Lab 3:
 
-    I enjoyed lab three as a whole because it was the first time I felt like I had a little bit of an understanding on what I was doing. During this lab we created code and used math. This was enjoyable for me because it was very different from the other labs before.
+    I enjoyed lab three as a whole because it was the first time I felt like I had a little bit of an understanding on what I was doing. During this lab we created code using doubles, ints, and math. This was also the first time we were introduced to the makefiles. This was enjoyable for me because it was very different from the other labs before.
 
 * Lab 7:
 
